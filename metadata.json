@@ -1,0 +1,6 @@
+{
+  "name": "FilterGuard AI",
+  "description": "Industrial AI predictive-maintenance platform for filter health monitoring, failure prognostics, and remaining useful life estimation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
